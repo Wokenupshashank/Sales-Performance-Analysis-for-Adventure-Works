@@ -1,5 +1,8 @@
 # 📊 Adventure Works Sales Analysis Dashboard
 
+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
+
+
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
   -H 'Content-Type: application/json' \
   -H 'X-goog-api-key: AQ.Ab8RN6JXzdL_NDJc8grlEcSblsQf-ksCjIEfhRZmCzUyDsIPdw' \
