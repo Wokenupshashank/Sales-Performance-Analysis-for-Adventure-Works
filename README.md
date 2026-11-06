@@ -1,26 +1,5 @@
 # 📊 Adventure Works Sales Analysis Dashboard
 
-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
-
-
-curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
-  -H 'Content-Type: application/json' \
-  -H 'X-goog-api-key: AQ.Ab8RN6JXzdL_NDJc8grlEcSblsQf-ksCjIEfhRZmCzUyDsIPdw' \
-  -X POST \
-  -d '{
-    "contents": [
-      {
-        "parts": [
-          {
-            "text": "Explain how AI works in a few words"
-          }
-        ]
-      }
-    ]
-  }'
-
-AQ.Ab8RN6JXzdL_NDJc8grlEcSblsQf-ksCjIEfhRZmCzUyDsIPdw
-
 ## 📄 Project Overview
 
 This **Power BI dashboard** provides a comprehensive analysis of Adventure Works' sales data, designed to support decision-making for business stakeholders. This dashboard covers various aspects of sales performance, customer demographics, and product trends, helping users understand key drivers of revenue and growth across different regions and customer segments.
