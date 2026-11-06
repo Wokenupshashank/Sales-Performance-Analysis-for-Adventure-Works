@@ -1,5 +1,9 @@
 # 📊 Adventure Works Sales Analysis Dashboard
 
+
+
+AQ.Ab8RN6JXzdL_NDJc8grlEcSblsQf-ksCjIEfhRZmCzUyDsIPdw
+
 ## 📄 Project Overview
 
 This **Power BI dashboard** provides a comprehensive analysis of Adventure Works' sales data, designed to support decision-making for business stakeholders. This dashboard covers various aspects of sales performance, customer demographics, and product trends, helping users understand key drivers of revenue and growth across different regions and customer segments.
